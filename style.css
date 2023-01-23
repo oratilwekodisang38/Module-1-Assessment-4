@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+}
+
+p{
+    color: dodgerblue;
+}
+table{
+    font-family: helvetica,sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: forestgreen
+}
+th{
+    font-weight: 800;
+    background-color: forestgreen;    
+}
